@@ -1,9 +1,9 @@
 <h1 align="center">
-  🚗 Rentizo
+  🏠 Romivio
 </h1>
 
 <p align="center">
-  <b>A Full-Stack Car Rental Application</b><br />
+  <b>A Full-Stack Room Rental Web Application</b><br />
   Built with ❤️ using <code>React</code>, <code>Node.js</code>, <code>Express</code>, <code>MongoDB</code>, and <code>Firebase</code>
 </p>
 
@@ -21,20 +21,24 @@
 ## 📂 Repositories
 
 - **Client Side:** [Romivio-client](https://github.com/sharifulislamudoy/Romivio-client)  
-- **Server Side:** [Rommivio-Server](https://github.com/sharifulislamudoy/Rommivio-Server)
+  Built with React, Tailwind, DaisyUI, Firebase Auth, Framer Motion.
+
+- **Server Side:** [Rommivio-Server](https://github.com/sharifulislamudoy/Rommivio-Server)  
+  Built with Node.js, Express, MongoDB, JWT Auth & API routes.
 
 ---
 
 ## ✨ Features
 
-✅ Firebase & JWT Authentication  
-✅ Browse, Book, and Manage Car Rentals  
-✅ Admin Controls for Car Management  
-✅ User Wishlist and Feedback System  
-✅ Secure API Endpoints and Private Routes  
-✅ Smooth Animations using Framer Motion  
-✅ Responsive UI with Tailwind CSS and DaisyUI  
-✅ Toast Alerts, Modals, and Interactive Elements
+✅ User Registration & Login (Firebase)  
+✅ Post, Browse, and Book Room Listings  
+✅ Wishlist Functionality  
+✅ Feedback & Ratings  
+✅ Role-based Access Control (User/Admin)  
+✅ Protected Routes & JWT Auth  
+✅ Responsive UI with Tailwind & DaisyUI  
+✅ Smooth UI Animations with Framer Motion  
+✅ Toast Alerts, Confirmation Modals, and Error Handling
 
 ---
 
@@ -42,7 +46,7 @@
 
 🔗 **Live Site:** [https://roomivio-auth.web.app/](https://roomivio-auth.web.app/)
 
-You can browse available cars, register/login with Firebase, book or manage rentals, and explore the protected dashboard.
+Explore featured listings, create an account, and book a room seamlessly.
 
 ---
 
@@ -50,17 +54,17 @@ You can browse available cars, register/login with Firebase, book or manage rent
 
 | Tech             | Description                           |
 |------------------|----------------------------------------|
-| ⚛️ React          | Frontend UI Framework                  |
+| ⚛️ React          | Frontend Framework                     |
 | 🔐 Firebase       | Authentication (Client-side)           |
 | 🧰 Node.js        | JavaScript runtime (Backend)           |
-| 🚀 Express        | Web framework for backend APIs         |
+| 🚀 Express        | REST API backend                       |
 | 🍃 MongoDB        | NoSQL database                         |
-| 🔑 JWT            | Secure token-based authentication      |
-| 🎨 Tailwind CSS   | Utility-first CSS styling              |
-| 🌈 DaisyUI        | Tailwind component library             |
+| 🔑 JWT            | JSON Web Tokens for auth               |
+| 🎨 Tailwind CSS   | Styling framework                      |
+| 🌈 DaisyUI        | Pre-built Tailwind UI components       |
 | 💫 Framer Motion | React animation library                |
-| 🔁 React Router   | Routing and navigation                 |
-| 🔔 React Toastify | Notification and alert system          |
+| 🔁 React Router   | SPA Routing                            |
+| 🔔 React Toastify | Notification system                    |
 
 ---
 
@@ -70,14 +74,14 @@ You can browse available cars, register/login with Firebase, book or manage rent
 
 - Node.js (v16 or later)
 - npm or yarn
-- MongoDB (Local or Atlas)
-- Firebase project for authentication
+- MongoDB (local or cloud)
+- Firebase project with Auth enabled
 
 ---
 
 ### 🧭 Step-by-Step Setup
 
-#### 1️⃣ Clone the repositories
+#### 1️⃣ Clone the Repositories
 
 ```bash
 git clone https://github.com/sharifulislamudoy/Romivio-client.git
