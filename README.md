@@ -76,13 +76,19 @@ git clone https://github.com/sharifulislamudoy/Romivio-client.git
 git clone https://github.com/sharifulislamudoy/Rommivio-Server.git
 # roomivio
 
-<h2>📞 Contact</h2>
-<p>If you have any questions, suggestions, or want to contribute, feel free to reach out!</p>
+📞 Contact
+If you have any questions, suggestions, or want to contribute, feel free to reach out!
 
-<h3>Author: Shariful Islam Udoy</h3>
+Author: Shariful Islam Udoy
 
-<b>GitHub</b>: (https://github.com/sharifulislamudoy)
+GitHub: https://github.com/sharifulislamudoy
 
-<b>Email</b>: (sharifulislamudoy56@gmail.com)
+Email: sharifulislamudoy@example.com
 
-<b>LinkedIn</b>: https://linkedin.com/in/sharifulislamudoy
+LinkedIn: https://linkedin.com/in/sharifulislamudoy
+
+
+> **Note:** Replace `sharifulislamudoy@example.com` with your actual email or preferred contact method.
+
+Let me know if you want me to add social icons or any other details!
+
