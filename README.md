@@ -20,39 +20,41 @@
 ## 📂 Repositories
 
 - **Client Side:** [Romivio-client](https://github.com/sharifulislamudoy/Romivio-client)  
-  React frontend with car browsing, booking, user dashboard, and authentication.
+  Frontend built with React, featuring car listings, user bookings, and authentication.
 
 - **Server Side:** [Rommivio-Server](https://github.com/sharifulislamudoy/Rommivio-Server)  
-  Node.js/Express backend handling API, database, authentication, and business logic.
+  Backend built with Node.js/Express, handling APIs, bookings, cars, authentication, and feedback.
 
 ---
 
 ## ✨ Features
 
-✅ User Authentication with JWT and Firebase  
-✅ Browse and search available cars with details  
-✅ Book, modify, or cancel car rentals  
-✅ Admin dashboard to manage car listings  
-✅ Responsive and modern UI with Tailwind CSS and DaisyUI  
-✅ Real-time notifications and smooth animations  
-✅ Protected routes and secure API endpoints  
+✅ Firebase & JWT Authentication  
+✅ Browse, Book, and Manage Car Rentals  
+✅ Admin Controls for Car Management  
+✅ User Wishlist and Feedback System  
+✅ Secure API Endpoints and Private Routes  
+✅ Smooth Animations using Framer Motion  
+✅ Responsive UI with Tailwind CSS and DaisyUI  
+✅ Toast Alerts, Modals, and Interactive Elements
 
 ---
 
 ## 🛠️ Tech Stack
 
 | Tech             | Description                           |
-|------------------|-------------------------------------|
-| ⚛️ React          | Frontend framework                  |
-| 🔐 Firebase       | Authentication                     |
-| 🎨 Tailwind CSS   | Utility-first CSS framework         |
-| 🌈 DaisyUI        | Tailwind CSS UI components          |
-| 💫 Framer Motion | Animation library for React         |
-| 🎯 React Router   | Routing and navigation              |
-| 🔧 Node.js        | Backend runtime                    |
-| 🚀 Express        | Web framework for Node.js           |
-| 🍃 MongoDB        | NoSQL database                     |
-| 🔑 JWT            | JSON Web Tokens for authentication  |
+|------------------|----------------------------------------|
+| ⚛️ React          | Frontend UI Framework                  |
+| 🔐 Firebase       | Authentication (Client-side)           |
+| 🧰 Node.js        | JavaScript runtime (Backend)           |
+| 🚀 Express        | Web framework for backend APIs         |
+| 🍃 MongoDB        | NoSQL database                         |
+| 🔑 JWT            | Secure token-based authentication      |
+| 🎨 Tailwind CSS   | Utility-first CSS styling              |
+| 🌈 DaisyUI        | Tailwind component library             |
+| 💫 Framer Motion | React animation library                |
+| 🔁 React Router   | Routing and navigation                 |
+| 🔔 React Toastify | Notification and alert system          |
 
 ---
 
@@ -60,29 +62,17 @@
 
 ### 🔧 Prerequisites
 
-- Node.js (v16+ recommended)  
-- npm or yarn  
-- MongoDB (local or cloud instance)  
-- Firebase project setup for authentication
+- Node.js (v16 or later)
+- npm or yarn
+- MongoDB (Local or Atlas)
+- Firebase project for authentication
 
 ---
 
-### 📦 Installation Steps
+### 🧭 Step-by-Step Setup
 
-#### 1. Clone the repositories
+#### 1️⃣ Clone the repositories
 
 ```bash
 git clone https://github.com/sharifulislamudoy/Romivio-client.git
 git clone https://github.com/sharifulislamudoy/Rommivio-Server.git
-# roomivio
-
-📞 Contact
-If you have any questions, suggestions, or want to contribute, feel free to reach out!
-
-Author: Shariful Islam Udoy
-
-GitHub: https://github.com/sharifulislamudoy
-
-Email: sharifulislamudoy@example.com
-
-LinkedIn: https://linkedin.com/in/sharifulislamudoy
