@@ -8,6 +8,7 @@
 </p>
 
 <p align="center">
+  🔗 <a href="https://roomivio-auth.web.app/" target="_blank"><b>Live Site</b></a> &nbsp; • &nbsp;
   🧑‍💻 <a href="#features"><b>Features</b></a> &nbsp; • &nbsp;
   🛠️ <a href="#tech-stack"><b>Tech Stack</b></a> &nbsp; • &nbsp;
   ⚙️ <a href="#running-locally"><b>Run Locally</b></a> &nbsp; • &nbsp;
@@ -20,10 +21,7 @@
 ## 📂 Repositories
 
 - **Client Side:** [Romivio-client](https://github.com/sharifulislamudoy/Romivio-client)  
-  Frontend built with React, featuring car listings, user bookings, and authentication.
-
-- **Server Side:** [Rommivio-Server](https://github.com/sharifulislamudoy/Rommivio-Server)  
-  Backend built with Node.js/Express, handling APIs, bookings, cars, authentication, and feedback.
+- **Server Side:** [Rommivio-Server](https://github.com/sharifulislamudoy/Rommivio-Server)
 
 ---
 
@@ -37,6 +35,14 @@
 ✅ Smooth Animations using Framer Motion  
 ✅ Responsive UI with Tailwind CSS and DaisyUI  
 ✅ Toast Alerts, Modals, and Interactive Elements
+
+---
+
+## 🌐 Live Preview
+
+🔗 **Live Site:** [https://roomivio-auth.web.app/](https://roomivio-auth.web.app/)
+
+You can browse available cars, register/login with Firebase, book or manage rentals, and explore the protected dashboard.
 
 ---
 
