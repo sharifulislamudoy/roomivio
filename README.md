@@ -86,9 +86,3 @@ GitHub: https://github.com/sharifulislamudoy
 Email: sharifulislamudoy@example.com
 
 LinkedIn: https://linkedin.com/in/sharifulislamudoy
-
-
-> **Note:** Replace `sharifulislamudoy@example.com` with your actual email or preferred contact method.
-
-Let me know if you want me to add social icons or any other details!
-
